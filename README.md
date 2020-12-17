@@ -1,4 +1,4 @@
-Book Instagram
+## Book Instagram
 
 This project creates an Instagram-like way to view New York Times bestsellers. 
 
